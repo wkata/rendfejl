@@ -1,0 +1,28 @@
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\api teszt.exe.config
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\api teszt.exe
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\api teszt.pdb
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\Newtonsoft.Json.Bson.dll
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\Newtonsoft.Json.dll
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\System.Buffers.dll
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\System.Memory.dll
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\Newtonsoft.Json.xml
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\Newtonsoft.Json.Bson.pdb
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\Newtonsoft.Json.Bson.xml
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\System.Buffers.xml
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\System.Memory.xml
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Release\api teszt.csproj.AssemblyReference.cache
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Release\api_teszt.Form1.resources
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Release\api_teszt.Properties.Resources.resources
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Release\api teszt.csproj.GenerateResource.cache
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Release\api teszt.csproj.CoreCompileInputs.cache
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Release\api teszt.csproj.Up2Date
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Release\api teszt.exe
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Release\api teszt.pdb

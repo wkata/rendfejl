@@ -1,0 +1,13 @@
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Debug\api teszt.exe.config
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Debug\api teszt.exe
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Debug\api teszt.pdb
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Debug\api teszt.csproj.AssemblyReference.cache
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Debug\api_teszt.Form1.resources
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Debug\api_teszt.Properties.Resources.resources
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Debug\api teszt.csproj.GenerateResource.cache
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Debug\api teszt.csproj.CoreCompileInputs.cache
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Debug\api teszt.csproj.Up2Date
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Debug\api teszt.exe
+C:\Users\Rendszerfejlesztes\source\repos\kliensalk\api teszt\obj\Debug\api teszt.pdb
